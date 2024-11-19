@@ -3,7 +3,8 @@ layout: post
 title:  "Post sobre ABD/Post about ABD"
 date:   2024-11-05 10:06
 categories: jekyll update
-image: /commons/bases_datos.png
+image: 
+    path: https://raw.githubusercontent.com/AlvaroSanJuan20/jekyll-theme-chirpy/refs/heads/master/assets/img/favicons/bases_datos.png
 ---
 
 ## Administración de Bases de Datos (ABD)
