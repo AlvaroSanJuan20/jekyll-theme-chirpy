@@ -3,7 +3,9 @@ layout: post
 title:  "Programación Avanzada/Advance Programming"
 date:   2024-11-05 10:06
 categories: jekyll update
-image: /commons/OIP.jpg
+image:
+  path: /commons/OIP.png
+  alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
 # Introducción a la Asignatura de Programación Avanzada

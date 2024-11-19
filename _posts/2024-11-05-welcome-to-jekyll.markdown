@@ -3,7 +3,10 @@ layout: post
 title:  "Las liricas de Waka Waka (This is for Africa)"
 date:   2024-11-05 09:35:56 +0100
 categories: jekyll update
-image: /commons/sheldoncoope.png
+image:
+  path: /commons/sheldoncoope.png
+  alt: Responsive rendering of Chirpy theme on multiple devices.
+---
 
 You're a good soldier, choosing your battles
 Pick yourself up and dust yourself off, get back in the saddle
